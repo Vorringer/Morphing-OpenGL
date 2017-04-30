@@ -1,0 +1,10 @@
+﻿  loader.cpp
+c:\users\vorringer\documents\visual studio 2015\projects\gcproject\gcproject\loader.cpp(167): warning C4018: “<”: 有符号/无符号不匹配
+  GCProject.cpp
+c:\users\vorringer\documents\visual studio 2015\projects\gcproject\gcproject\gcproject.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\vorringer\documents\visual studio 2015\projects\gcproject\gcproject\gcproject.cpp(186): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\vorringer\documents\visual studio 2015\projects\gcproject\gcproject\gcproject.cpp(312): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\vorringer\documents\visual studio 2015\projects\gcproject\gcproject\gcproject.cpp(320): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  GCProject.vcxproj -> C:\Users\Vorringer\documents\visual studio 2015\Projects\GCProject\Debug\GCProject.exe
+  GCProject.vcxproj -> C:\Users\Vorringer\documents\visual studio 2015\Projects\GCProject\Debug\GCProject.pdb (Full PDB)

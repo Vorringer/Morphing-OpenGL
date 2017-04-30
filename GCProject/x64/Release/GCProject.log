@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  GCProject.cpp
+GCProject.cpp(176): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(177): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(187): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(188): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(189): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(193): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(200): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(201): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(202): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(203): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(232): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+GCProject.cpp(365): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(374): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+GCProject.cpp(412): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+  loader.cpp
+loader.cpp(33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+loader.cpp(154): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+loader.cpp(186): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  lodepng.cpp
+lodepng.cpp(799): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+lodepng.cpp(1459): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+lodepng.cpp(1463): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+lodepng.cpp(1535): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+lodepng.cpp(3479): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+lodepng.cpp(3493): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+lodepng.cpp(4327): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+lodepng.cpp(4375): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+lodepng.cpp(4455): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+lodepng.cpp(5398): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”
